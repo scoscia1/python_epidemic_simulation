@@ -1,4 +1,4 @@
-import pygame
+import pygam
 from pygame.rect import Rect
 
 from constants import InitialCondition, Screen, Disease, SimColor
